@@ -1,0 +1,12 @@
+ITEM.name = "Sturm Zigaretten"
+ITEM.desc = "An addictive yet harmful cigarette produced in the Third Reich."
+ITEM.model = "models/mordeciga/mordes/oldcigshib.mdl"
+ITEM.class = "weapon_ciga"
+ITEM.weaponCategory = "cigarette"
+ITEM.width = 1
+ITEM.price = 25
+ITEM.height = 1
+ITEM.weight = 2
+ITEM.flag = "Y"
+ITEM.UniqueID = "weapon_ciga"
+ITEM.bDropOnDeath = true
